@@ -82,6 +82,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalms+119:97-104&repeat=false" alt="Psalms 119:97-104" />
 <br />
 <i>Oh how I love Your law! It is my meditation all the day. Your commandments make me wiser than my enemies, For they are mine forever. I have more insight than all my teachers, For Your testimonies are my meditation. I perceive more than the aged, Because I have observed Your precepts. I have restrained my feet from every evil way, That I may keep Your word. I have not turned aside from Your judgments, For You Yourself have taught me. How sweet is Your word to my taste! Sweeter than honey to my mouth! From Your precepts I get perception; Therefore I hate every false way.</i>
+<br />
+<br />
+<!-- Psalms 115:1-3 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalms+115:1-3&repeat=false" alt="Psalms 115:1-3" />
+<br />
+<i>Not to us, O Yahweh, not to us, But to Your name give glory Because of Your lovingkindness, because of Your truth. Why should the nations say, “Where, now, is their God?” But our God is in the heavens; He does whatever He pleases.</i>
 </td>
 
 <!-- COLUMN 2: Stacked Verses -->
