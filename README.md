@@ -94,6 +94,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Romans+5:1-5&repeat=false" alt="Romans 5:1-5" />
 <br />
 <i>Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have obtained our introduction by faith into this grace in which we stand; and we boast in hope of the glory of God. And not only this, but we also boast in our afflictions, knowing that affliction brings about perseverance; and perseverance, proven character; and proven character, hope; and hope does not put to shame, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.</i>
+<br />
+<br />
+<!-- 1 Peter 2:9-10 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=1+Peter+2:9-10&repeat=false" alt="1 Peter 2:9-10" />
+<br />
+<i>But you are a chosen family, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light; for you once were not a people, but now you are the people of God; you had not received mercy, but now you have received mercy.</i>
 </td>
 
 <!-- COLUMN 2: Stacked Verses -->
@@ -151,6 +157,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=1+Samuel+2:1-10&repeat=false" alt="1 Samuel 2:1-10" />
 <br />
 <small><i>My heart exults in Yahweh; My horn is exalted in Yahweh; My mouth speaks boldly against my enemies, Because I am glad in Your salvation. There is no one holy like Yahweh; Indeed, there is no one besides You, Nor is there any rock like our God. Do not multiply speaking so very proudly; Let arrogance not come out of your mouth; For Yahweh is a God of knowledge, And with Him actions are weighed. The bows of the mighty are shattered, But those who stumble gird on strength. Those who were full hire themselves out for bread, But those who were hungry cease to hunger. Even the barren gives birth to seven, But she who has many children languishes. Yahweh puts to death and makes alive; He brings down to Sheol and raises up. Yahweh makes poor and rich; He brings low; He also exalts. He raises the poor from the dust; He exalts the needy from the ash heap To make them sit with nobles, And inherit a seat of glory; For the pillars of the earth are Yahweh’s, And He set the world on them. He keeps the feet of His holy ones, But the wicked ones are silenced in darkness, For not by power shall a man prevail. Those who contend with Yahweh will be dismayed; Against them He will thunder in the heavens; Yahweh will render justice to the ends of the earth, And He will give strength to His king, And He will exalt the horn of His anointed.</i></small>
+<br />
+<br />
+<!-- Isaiah 43:16-21 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Isaiah+43:16-21&repeat=false" alt="Isaiah 43:16-21" />
+<br />
+<small><i>Thus says Yahweh, Who makes a way through the sea And a path through the mighty waters, Who brings forth the chariot and the horse, The military force and the mighty man; They will lie down together and not rise again; They have been extinguished and quenched like a wick: “Do not remember the former things, Nor carefully consider things of the past. Behold, I will do something new; Now it will spring forth; Will you not know it? I will even make a roadway in the wilderness, Rivers in the wasteland. The beasts of the field will glorify Me, The jackals and the ostriches, Because I have given waters in the wilderness And rivers in the wasteland, To give drink to My chosen people. The people whom I formed for Myself Will recount My praise.</i></small>
 </td>
 </tr>
 </table>
