@@ -79,26 +79,26 @@
 <tr>
 <!-- VERSE 1 -->
 <td width="33%" align="center" valign="top">
-<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=John+1:5" alt="John 1:5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalms+119:97-104&repeat=false" alt="Psalms 119:97-104" />
 <br />
 <br />
-<i>"And the light shineth in darkness;<br/>and the darkness comprehended it not."</i>
+<i>"Oh how I love Your law! It is my meditation all the day. Your commandments make me wiser than my enemies, For they are mine forever. I have more insight than all my teachers, For Your testimonies are my meditation. I perceive more than the aged, Because I have observed Your precepts. I have restrained my feet from every evil way, That I may keep Your word. I have not turned aside from Your judgments, For You Yourself have taught me. How sweet is Your word to my taste! Sweeter than honey to my mouth! From Your precepts I get perception; Therefore I hate every false way."</i>
 </td>
 
 <!-- VERSE 2 -->
 <td width="33%" align="center" valign="top">
-<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalm+23:4" alt="Psalm 23:4" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalm+37:13&repeat=false" alt="Psalm 37:13" />
 <br />
 <br />
-<i>"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me."</i>
+<i>"But the Lord laughs at the wicked, for He knows that their day is coming."</i>
 </td>
 
 <!-- VERSE 3 -->
 <td width="33%" align="center" valign="top">
-<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Rev+21:6" alt="Rev 21:6" />
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=1+Corinthians+1:31&repeat=false" alt="1 Corinthians 1:31" />
 <br />
 <br />
-<i>"I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely."</i>
+<i>so that, just as it is written, “LET HIM WHO BOASTS, BOAST IN THE LORD.”</i>
 </td>
 </tr>
 </table>
