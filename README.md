@@ -99,6 +99,13 @@
 <br />
 <br />
 <i>so that, just as it is written, “LET HIM WHO BOASTS, BOAST IN THE LORD.”</i>
+<br />
+<br />
+<!-- Proverbs 16:4 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Proverbs+16:4&repeat=false" alt="Proverbs 16:4" />
+<br />
+<br />
+<i>"YHWH has made everything for its own purpose, Even the wicked for the day of evil."</i>
 </td>
 
 <!-- COLUMN 3: Empty -->
