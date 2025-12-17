@@ -138,6 +138,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Isaiah+45:23&repeat=false" alt="Isaiah 45:23" />
 <br />
 <i>I have sworn by Myself, the word has gone forth from My mouth in righteousness and will not turn back, that every knee will bow to Me, and every tongue will swear allegiance.</i>
+<br />
+<br />
+<!-- Isaiah 43:7 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Isaiah+43:7&repeat=false" alt="Isaiah 43:7" />
+<br />
+<i>Everyone who is called by My name, And whom I have created for My glory, Whom I have formed, even whom I have made.</i>
 </td>
 
 <!-- COLUMN 3: 1 Samuel 2:1-10 -->
