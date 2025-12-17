@@ -88,6 +88,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalms+115:1-3&repeat=false" alt="Psalms 115:1-3" />
 <br />
 <i>Not to us, O Yahweh, not to us, But to Your name give glory Because of Your lovingkindness, because of Your truth. Why should the nations say, “Where, now, is their God?” But our God is in the heavens; He does whatever He pleases.</i>
+<br />
+<br />
+<!-- Romans 5:1-5 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Romans+5:1-5&repeat=false" alt="Romans 5:1-5" />
+<br />
+<i>Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have obtained our introduction by faith into this grace in which we stand; and we boast in hope of the glory of God. And not only this, but we also boast in our afflictions, knowing that affliction brings about perseverance; and perseverance, proven character; and proven character, hope; and hope does not put to shame, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.</i>
 </td>
 
 <!-- COLUMN 2: Stacked Verses -->
@@ -126,6 +132,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Proverbs+1:7&repeat=false" alt="Proverbs 1:7" />
 <br />
 <i>The fear of Yahweh is the beginning of knowledge; Ignorant fools despise wisdom and discipline.</i>
+<br />
+<br />
+<!-- Isaiah 45:23 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Isaiah+45:23&repeat=false" alt="Isaiah 45:23" />
+<br />
+<i>I have sworn by Myself, the word has gone forth from My mouth in righteousness and will not turn back, that every knee will bow to Me, and every tongue will swear allegiance.</i>
 </td>
 
 <!-- COLUMN 3: 1 Samuel 2:1-10 -->
