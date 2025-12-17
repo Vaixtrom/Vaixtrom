@@ -106,6 +106,20 @@
 <br />
 <br />
 <i>YHWH has made everything for its own purpose, Even the wicked for the day of evil.</i>
+<br />
+<br />
+<!-- Lamentations 3:31-33 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Lamentations+3:31-33&repeat=false" alt="Lamentations 3:31-33" />
+<br />
+<br />
+<i>For the Lord will not reject forever, For if He causes grief, Then He will have compassion According to His abundant lovingkindness. For He does not afflict from His heart Or grieve the sons of men.</i>
+<br />
+<br />
+<!-- Romans 8:30 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Romans+8:30&repeat=false" alt="Romans 8:30" />
+<br />
+<br />
+<i>and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.</i>
 </td>
 
 <!-- COLUMN 3: 1 Samuel 2:1-10 -->
