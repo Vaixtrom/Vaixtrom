@@ -66,6 +66,63 @@
 </a>
 </td>
 </tr>
+
+<!--
+    ==========================================================================
+    TEMPLATE FOR NEW PROJECTS
+    To add a new row of projects, copy the block below and paste it above this comment.
+    Update links, image paths, and project names.
+    ==========================================================================
+    <tr>
+        <td width="33%" align="center" valign="top">
+            <a href="PROJECT_URL">
+                <img src="IMAGE_PATH" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="PROJECT_NAME" />
+            </a>
+            <br />
+            <a href="PROJECT_URL">
+                <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=PROJECT_NAME&repeat=false" alt="PROJECT_NAME" />
+            </a>
+        </td>
+        <td width="33%" align="center" valign="top"></td>
+        <td width="33%" align="center" valign="top"></td>
+    </tr>
+    ==========================================================================
+-->
+</table>
+
+<br />
+
+<h3>✠ ════════════════════════════════════════════════════════════ ✠</h3>
+
+<br />
+
+<!-- BIBLE VERSES SECTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<!-- VERSE 1 -->
+<td width="33%" align="center" valign="top">
+<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=John+1:5" alt="John 1:5" />
+<br />
+<br />
+<i>"And the light shineth in darkness;<br/>and the darkness comprehended it not."</i>
+</td>
+
+<!-- VERSE 2 -->
+<td width="33%" align="center" valign="top">
+<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Psalm+23:4" alt="Psalm 23:4" />
+<br />
+<br />
+<i>"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me."</i>
+</td>
+
+<!-- VERSE 3 -->
+<td width="33%" align="center" valign="top">
+<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Rev+21:6" alt="Rev 21:6" />
+<br />
+<br />
+<i>"I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely."</i>
+</td>
+</tr>
 </table>
 
 <br />
