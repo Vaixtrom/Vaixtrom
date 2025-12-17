@@ -100,6 +100,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=1+Peter+2:9-10&repeat=false" alt="1 Peter 2:9-10" />
 <br />
 <i>But you are a chosen family, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light; for you once were not a people, but now you are the people of God; you had not received mercy, but now you have received mercy.</i>
+<br />
+<br />
+<!-- John 9:1-3 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=John+9:1-3&repeat=false" alt="John 9:1-3" />
+<br />
+<i>As He passed by, He saw a man blind from birth. And His disciples asked Him, saying, “Rabbi, who sinned, this man or his parents, that he would be born blind?” Jesus answered, “Neither this man nor his parents sinned, but this was so that the works of God might be manifested in him.</i>
 </td>
 
 <!-- COLUMN 2: Stacked Verses -->
