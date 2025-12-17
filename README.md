@@ -66,28 +66,6 @@
 </a>
 </td>
 </tr>
-
-<!--
-    ==========================================================================
-    TEMPLATE FOR NEW PROJECTS
-    To add a new row of projects, copy the block below and paste it above this comment.
-    Update links, image paths, and project names.
-    ==========================================================================
-    <tr>
-        <td width="33%" align="center" valign="top">
-            <a href="PROJECT_URL">
-                <img src="IMAGE_PATH" width="100" height="100" style="object-fit: cover; border-radius: 15px;" alt="PROJECT_NAME" />
-            </a>
-            <br />
-            <a href="PROJECT_URL">
-                <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=50&lines=PROJECT_NAME&repeat=false" alt="PROJECT_NAME" />
-            </a>
-        </td>
-        <td width="33%" align="center" valign="top"></td>
-        <td width="33%" align="center" valign="top"></td>
-    </tr>
-    ==========================================================================
--->
 </table>
 
 <br />
@@ -128,6 +106,8 @@
 <br />
 
 <h3>✠ ════════════════════════════════════════════════════════════ ✠</h3>
+
+<br />
 
 <!-- BOTTOM GIF (Vlad) -->
 <img src="./assets/vlad.gif" width="100%" alt="End" />
