@@ -175,6 +175,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Isaiah+43:16-21&repeat=false" alt="Isaiah 43:16-21" />
 <br />
 <small><i>Thus says Yahweh, Who makes a way through the sea And a path through the mighty waters, Who brings forth the chariot and the horse, The military force and the mighty man; They will lie down together and not rise again; They have been extinguished and quenched like a wick: “Do not remember the former things, Nor carefully consider things of the past. Behold, I will do something new; Now it will spring forth; Will you not know it? I will even make a roadway in the wilderness, Rivers in the wasteland. The beasts of the field will glorify Me, The jackals and the ostriches, Because I have given waters in the wilderness And rivers in the wasteland, To give drink to My chosen people. The people whom I formed for Myself Will recount My praise.</i></small>
+<br />
+<br />
+<!-- Romans 9:19-24 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Romans+9:19-24&repeat=false" alt="Romans 9:19-24" />
+<br />
+<small><i>You will say to me then, “Why does He still find fault? For who resists His will?” On the contrary, who are you, O man, who answers back to God? WILL THE THING MOLDED SAY TO THE MOLDER, “WHY DID YOU MAKE ME LIKE THIS”? Or does not the potter have authority over the clay, to make from the same lump one vessel for honorable use and another for dishonorable use? And what if God, wanting to demonstrate His wrath and to make His power known, endured with much patience vessels of wrath having been prepared for destruction, and in order that He might make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory— even us, whom He also called, not from among Jews only, but also from among Gentiles?</i></small>
 </td>
 </tr>
 </table>
