@@ -156,6 +156,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Isaiah+43:7&repeat=false" alt="Isaiah 43:7" />
 <br />
 <i>Everyone who is called by My name, And whom I have created for My glory, Whom I have formed, even whom I have made.</i>
+<br />
+<br />
+<!-- Romans 4:2-3 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=New+Rocker&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=70&lines=Romans+4:2-3&repeat=false" alt="Romans 4:2-3" />
+<br />
+<i>For if Abraham was justified by works, he has something to boast about, but not before God. For what does the Scripture say? 'Abraham believed God, and it was credited to him as righteousness.'</i>
 </td>
 
 <!-- COLUMN 3: 1 Samuel 2:1-10 -->
